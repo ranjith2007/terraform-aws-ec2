@@ -9,5 +9,7 @@ security_group_ids - (Mandatory), user must provide list of SG ID
 ## outputs
 
 public_ip - Public IP of the instance created
+
 private_ip - Private IP of the instance created
+
 instance_id - Instance ID of the instance created
