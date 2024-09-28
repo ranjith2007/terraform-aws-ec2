@@ -3,7 +3,9 @@
 ## Arguments
 
 ami_id - (Mandatory), User must provide AMI ID. This is the string format
+
 instance_-type - (optional), default is t3.micro 
+
 security_group_ids - (Mandatory), user must provide list of SG ID 
 
 ## outputs
